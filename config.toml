@@ -1,4 +1,4 @@
-baseURL = "https://yasszxd.github.io/resume/"
+baseURL = "https://yasszxd.github.io/"
 title   = "You did it! You found my website."
 languageCode = "en-us"
 theme = "hello-friend-ng"
