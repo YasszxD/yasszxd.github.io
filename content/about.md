@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2023-08-23T17:54:37+02:00
-draft: true
+draft: false
 author: "Yassine"
 ---
 Hello there! 👋 I'm *Yassine Abdelhedi*, I'm deeply enthusiastic about open-source projects, big data, and system administration. based in [Sfax,Tunisia.](https://www.google.com/maps/place/Sfax/)
