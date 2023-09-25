@@ -1,4 +1,4 @@
-baseURL = "https://yasszxd.github.io/"
+baseURL = "https://yasszxd.github.io/resume/"
 title   = "You did it! You found my website."
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -202,8 +202,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "resume/about/"
+    url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "resume/posts/"
+    url        = "posts/"
