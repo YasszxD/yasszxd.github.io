@@ -13,7 +13,7 @@ tags:
 - [What Is Git?](#what-is-git)
 - [Why Use Git?](#why-use-git)
    * [Collaboration ](#collaboration)
-      + [History Tracking](#history-tracking)
+   * [History Tracking](#history-tracking)
 - [Getting started with Git](#getting-started-with-git)
    * [Installing Git](#installing-git)
    * [Setting some Git Configurations](#setting-some-git-configurations)
@@ -31,7 +31,7 @@ Git is a powerful and widely-used **version control system** that plays a crucia
 ### Collaboration 
 Git facilitates collaboration among developers. It allows multiple developers to work on the same project simultaneously without interfering with each other's work.
 <!-- TOC --><a name="history-tracking"></a>
-#### History Tracking
+### History Tracking
 Git keeps a detailed history of every change made to the project. This history includes who made the changes, what changes were made, and when they were made.
 <!-- TOC --><a name="getting-started-with-git"></a>
 ## Getting started with Git
